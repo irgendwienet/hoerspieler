@@ -6,7 +6,7 @@ Das F#-Script `spotify.fsx` nutzt die Spotify-API um Metadaten von Alben eines I
 
 Das LaTeX Template stammt von https://tex.stackexchange.com/questions/47924/creating-playing-cards-using-tikz und ist leicht angepasst. 
 
-Am Ende hat man ein PDF mit den Karten (10 Karten ja A4 Seite). Am besten druckt man das auf dickem Papier (z.B. 250g/qm) aus.
+Am Ende hat man ein PDF mit den Karten (10 Karten je A4 Seite). Am besten druckt man es auf dickem Papier (z.B. 250g/qm) aus.
 
 # Beispiele
 
