@@ -1,0 +1,19 @@
+\documentclass[a4paper,landscape]{article}
+
+% See https://tex.stackexchange.com/questions/47924/creating-playing-cards-using-tikz
+
+%   Pakete dazuladen
+\input{libs.tex}
+%   Farbdefinitionen laden
+\input{colors.tex}
+%   \card-Commands laden
+\input{tikzcards.tex}
+
+\begin{document}
+\begin{center}
+    \pagestyle{empty}
+		
+		\input{cards.tex}
+		
+\end{center}
+\end{document}
